@@ -1,5 +1,5 @@
 const links = [
-  { name: 'Pornhub', url: 'https://rt.pornhub.org/model/legohub', icon: 'assets/icons/Pornhub.png', accent: '#88c0d0' },
+  { name: 'Pornhub', url: 'https://www.youtube.com/@legohub5059', icon: 'assets/icons/Pornhub.png', accent: '#88c0d0' },
   { name: 'Meow Camera', url: 'https://meow.camera', icon: 'assets/icons/Meow Camera.png', accent: '#81a1c1' },
   { name: 'Dverso', url: 'https://tools.dverso.io/bgremove', icon: 'assets/icons/Dverso.png', accent: '#a3be8c' },
   { name: 'Saydnaya', url: 'https://saydnaya.amnesty.org', icon: 'assets/icons/Saydnaya.png', accent: '#bf616a' },

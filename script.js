@@ -1,5 +1,5 @@
 const links = [
-  { name: 'Pornhub', url: 'https://www.youtube.com/@legohub5059', icon: 'assets/icons/Pornhub.png', accent: '#88c0d0' },
+  { name: 'Pornhub', url: 'https://rt.pornhub.org/model/legohub', icon: 'assets/icons/Pornhub.png', accent: '#88c0d0' },
   { name: 'Meow Camera', url: 'https://meow.camera', icon: 'assets/icons/Meow Camera.png', accent: '#81a1c1' },
   { name: 'Dverso', url: 'https://tools.dverso.io/bgremove', icon: 'assets/icons/Dverso.png', accent: '#a3be8c' },
   { name: 'Saydnaya', url: 'https://saydnaya.amnesty.org', icon: 'assets/icons/Saydnaya.png', accent: '#bf616a' },
@@ -40,7 +40,21 @@ const links = [
   { name: 'First Person Tetris', url: 'https://firstpersontetris.com', icon: 'assets/icons/First Person Tetris.png', accent: '#a3be8c' },
   { name: 'Classic Minecraft', url: 'https://classic.minecraft.net', icon: 'assets/icons/Classic Minecraft.png', accent: '#bf616a' },
   { name: 'Pointer Pointer', url: 'https://pointerpointer.com', icon: 'assets/icons/Pointer Pointer.png', accent: '#d8dee9' },
-  { name: 'JS Paint', url: 'https://jspaint.app', icon: 'assets/icons/JS Paint.png', accent: '#b48ead' }
+  { name: 'JS Paint', url: 'https://jspaint.app', icon: 'assets/icons/JS Paint.png', accent: '#b48ead' },
+  { name: 'Tic Tac Oh', url: 'https://gitgud.party/tic-tac-oh', icon: 'assets/icons/tic tac oh.png', accent: '#88c0d0' },
+  { name: 'Slow Roads', url: 'https://slowroads.io', icon: 'assets/icons/slow roads.png', accent: '#a3be8c' },
+  { name: 'The Black Vault', url: 'https://www.theblackvault.com', icon: 'assets/icons/the black vault.png', accent: '#bf616a' },
+  { name: 'Babel Image Archive', url: 'https://babelia.libraryofbabel.info', icon: 'assets/icons/babel image archive.jpg', accent: '#ebcb8b' },
+  { name: 'Geek Prank', url: 'https://geekprank.com', icon: 'assets/icons/geek prank.png', accent: '#d08770' },
+  { name: 'Frequency 2156', url: 'https://frequency2156.com', icon: 'assets/icons/frequency 2156.png', accent: '#8fbcbb' },
+  { name: 'Marine Traffic', url: 'https://www.marinetraffic.com', icon: 'assets/icons/marine traffic.png', accent: '#5e81ac' },
+  { name: 'Submarine Cable Map', url: 'https://www.submarinecablemap.com', icon: 'assets/icons/submarine cable map.png', accent: '#b48ead' },
+  { name: 'Play Classic Games', url: 'https://playclassic.games/games', icon: 'assets/icons/play classic games.png', accent: '#d8dee9' },
+  { name: 'Scream Club', url: 'https://screamclub.club', icon: 'assets/icons/scream club.png', accent: '#bf616a' },
+  { name: 'Distance to Mars', url: 'https://distancetomars.com', icon: 'assets/icons/distance to mars.png', accent: '#81a1c1' },
+  { name: 'How Far is Andromeda', url: 'https://howfarawayisandromeda.neocities.org', icon: 'assets/icons/how far is andromeda.png', accent: '#88c0d0' },
+  { name: '100,000 Stars', url: 'https://stars.chromeexperiments.com', icon: 'assets/icons/100 000 stars.png', accent: '#ebcb8b' },
+  { name: 'Space Object Comparison', url: 'https://mr21.github.io/space-object-comparison', icon: 'assets/icons/space objects comparison.png', accent: '#a3be8c' }
 ];
 
 const grid = document.getElementById('linkGrid');

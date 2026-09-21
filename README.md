@@ -5,3 +5,5 @@ Project was originally created as event of giveaways for discord-server "Happy D
 If you liked the idea please find us [here](https://discord.com/invite/6BcAYK4uRn).
 
 ![Preview сайта](assets/site-preview.svg)
+
+Project is closed, forgot to mention.
